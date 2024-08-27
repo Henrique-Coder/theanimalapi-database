@@ -1,0 +1,14 @@
+# IDE
+.idea
+.venv
+__pycache__
+
+# Directories
+# ...
+
+# Files
+.env
+requirements.txt
+
+# Extensions
+*.py
